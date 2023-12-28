@@ -1,5 +1,13 @@
 # 💫 About Me:
-¡Hola mundo! 👋 Soy Rodrigo Torres, un apasionado programador de 20 años proveniente de la hermosa tierra de Perú. Actualmente estoy en camino hacia mi licenciatura en Ciencia de la Computación, pero mi sed de conocimiento va más allá de las aulas.<br><br>Desde siempre he sentido una fascinación especial por la Inteligencia Artificial, y mi objetivo es sumergirme en el emocionante mundo de la programación para contribuir al desarrollo de soluciones innovadoras. Mi enfoque es claro: aprender de manera constante y aplicar mis conocimientos para hacer del mundo digital un lugar mejor.<br><br>Mis habilidades van más allá del código; disfruto investigando nuevas tecnologías y explorando posibilidades creativas. Estoy emocionado por la oportunidad de participar en proyectos desafiantes que no solo impulsen mi crecimiento profesional, sino que también dejen una marca significativa en el mundo digital.<br><br>En mi viaje hacia la maestría técnica, estoy ansioso por colaborar con equipos dinámicos y aprender de mentes brillantes que compartan mi pasión por la innovación. Si estás buscando a alguien con energía, determinación y un deseo ardiente de aprender, ¡has llegado al lugar correcto!<br><br>Estoy abierto a nuevas oportunidades y emocionado por formar parte de proyectos que desafíen mis límites y expandan mis horizontes. ¡Vamos a crear algo asombroso juntos! 🚀
+Hello world! 👋 I'm Rodrigo Torres, a passionate 20-year-old programmer hailing from the beautiful land of Peru. I'm currently on the path to earning my degree in Computer Science, but my thirst for knowledge extends beyond the classroom.
+
+I've always had a special fascination for Artificial Intelligence, and my goal is to dive into the exciting realm of programming to contribute to the development of innovative solutions. My focus is clear: to learn constantly and apply my knowledge to make the digital world a better place.
+
+My skills go beyond code; I enjoy researching new technologies and exploring creative possibilities. I'm thrilled at the opportunity to participate in challenging projects that not only propel my professional growth but also make a meaningful impact in the digital world.
+
+On my journey to technical mastery, I'm eager to collaborate with dynamic teams and learn from bright minds who share my passion for innovation. If you're looking for someone with energy, determination, and a burning desire to learn, you've come to the right place!
+
+I am open to new opportunities and excited to be part of projects that challenge my limits and expand my horizons. Let's create something amazing together! 🚀
 
 
 ## 🌐 Socials:
