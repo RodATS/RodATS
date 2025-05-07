@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello world! 👋 I'm Rodrigo Torres, a passionate 20-year-old programmer hailing from the beautiful land of Peru. I'm currently on the path to earning my degree in Computer Science, but my thirst for knowledge extends beyond the classroom.
+Hello world! 👋 I'm Rodrigo Torres, a passionate 22-year-old programmer hailing from the beautiful land of Peru. I have a bachelor degree in Computer Science, but my thirst for knowledge extends beyond the classroom.
 
 I've always had a special fascination for Artificial Intelligence, and my goal is to dive into the exciting realm of programming to contribute to the development of innovative solutions. My focus is clear: to learn constantly and apply my knowledge to make the digital world a better place.
 
@@ -9,6 +9,9 @@ On my journey to technical mastery, I'm eager to collaborate with dynamic teams 
 
 I am open to new opportunities and excited to be part of projects that challenge my limits and expand my horizons. Let's create something amazing together! 🚀
 
+I had a scolarship in a municipal finance office from my city for a year. I worked in Pricing and rentability area as an data analist. I optimized process to generate reports and visual dashborads to take descisions.
+
+Now, I want to look o the board, looking for be an Porgrammer full stack in some companies or participate in projects. My social medias you can find below:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-torres-sotomayor-4a6851251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
